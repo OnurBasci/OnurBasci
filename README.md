@@ -18,7 +18,9 @@ Here are some of my cool projects!
 
 ## Education 📖
 2024-2025: Master's (M2) student in IGD Master track (Interaction, Graphics & Design) at Institut Polytechnique de Paris
+
 2023-2024: Master's (M1) student in Sorbonne Université specialized in Computer Vision/Image Processing
+
 2020-2023: Double Bachelor's in Computer Science and Mathematics at Université Paris Cité
 
 ## Interests 👾
