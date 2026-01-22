@@ -1,12 +1,19 @@
 ## Hi there 👋
 I am a Computer Science student specializing in Computer Graphics at Institut Polytechnique de Paris. I have a great interest for 3D rendering, physics-based simulations and geometry processing.
+
+## Projects
 Here are some of my cool projects!
 
 -[Real Time Path Tracer with Spatio-Temporal Denoising](https://github.com/OnurBasci/Real_Time_Path_Tracing_With_SpatioTemporal_Filtering)
+
 -[Interactive Eulerian Fluid Simulator](https://github.com/OnurBasci/Interactive_Eularian_Fluid_Simulator)
+
 -[Interactive Object Manipulation for 3D gaussian splatting](https://github.com/OnurBasci/Interactive_object_manipulation_for_3D_gaussian_splatting_viewer)
+
 -[Deep Learning Based Navier Stokes Solver](https://github.com/OnurBasci/TransformerBasedNavierStokeSolver)
+
 -[Ray Tracer with Deep Shadow Map for realistic shadows](https://github.com/OnurBasci/Ray-Tracer-Deep-Shadow-Map)
+
 -[A survey about real time water simulations](https://github.com/OnurBasci/Real-Time-Water-Simulation)
 
 <!--
