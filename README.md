@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am a Computer Science student specializing in Computer Graphics at Institut Polytechnique de Paris. I have a great interest for 3D rendering, physics-based simulations and geometry processing.
 
-## Projects
+## Projects 🚀
 Here are some of my cool projects!
 
 -[Real Time Path Tracer with Spatio-Temporal Denoising](https://github.com/OnurBasci/Real_Time_Path_Tracing_With_SpatioTemporal_Filtering)
@@ -16,18 +16,12 @@ Here are some of my cool projects!
 
 -[A survey about real time water simulations](https://github.com/OnurBasci/Real-Time-Water-Simulation)
 
-<!--
-**OnurBasci/OnurBasci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education 📖
+2024-2025: Master's (M2) student in IGD Master track (Interaction, Graphics & Design) at Institut Polytechnique de Paris
+2023-2024: Master's (M1) student in Sorbonne Université specialized in Computer Vision/Image Processing
+2020-2023: Double Bachelor's in Computer Science and Mathematics at Université Paris Cité
 
-Here are some ideas to get you started:
+## Interests 👾
+I like playing and developing video games. I also enjoy playing 🥁 and 🏓 in my free time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-3
+
